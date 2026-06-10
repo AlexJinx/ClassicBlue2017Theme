@@ -1,0 +1,14 @@
+This project derives its base Visual Studio 2017 blue theme tokens and icon from:
+
+  Original Blue Color Theme
+  https://github.com/madskristensen/BlueColorTheme
+
+Copyright 2019 Mads Kristensen
+Licensed under the Apache License, Version 2.0.
+
+Local modifications:
+
+  - Renamed the theme to Classic Blue 2017.
+  - Assigned a new theme GUID to avoid colliding with the original extension.
+  - Added Visual Studio 2026 Shell and ShellInternal semantic color tokens.
+  - Updated the VSIX manifest and build project for Visual Studio 2026.
