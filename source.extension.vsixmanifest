@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="ClassicBlue2017Theme.8d0302e1-3fb5-4db3-8e92-7ebd5c6c61b9" Version="1.0.5" Language="en-US" Publisher="Evan Liu" />
+    <Identity Id="ClassBlue2017.6ae082da-94c1-4205-9bbe-acd107f765d1" Version="1.0.5" Language="en-US" Publisher="Evan Liu" />
     <Author>Evan Liu</Author>
     <DisplayName>Classic Blue 2017 Theme</DisplayName>
     <Description xml:space="preserve">Restores a Visual Studio 2017-style blue theme for Visual Studio 2026, with added VS2026 semantic shell color tokens.</Description>
